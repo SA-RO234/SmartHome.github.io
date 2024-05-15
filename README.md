@@ -1,1 +1,1 @@
-This my project
+SmartHome.github.io
